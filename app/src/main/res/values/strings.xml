@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cifar10Camera</string>
+    <string name="image_content_description">Image to Guess</string>
+    <string name="camera_button">Image From Camera</string>
+    <string name="gallery_button">Image From Gallery</string>
+    <string name="guess_image_button">Guess Image</string>
+    <string name="results_text">Prediction Results</string>
+</resources>
